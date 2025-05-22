@@ -1,4 +1,4 @@
-Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price_per_Unit,Quantity,Profit,Sales_Method
+Retailer,Retailer_ID,Invoice_Date,Region,State,City,Product,Price_per_Unit,Quantity,Profit,Sales_Method
 Foot Locker,1185732,1/1/2020,Northeast,New York,New York,Men's Street Footwear,50,"1,200",300000,In-store
 Foot Locker,1185732,1/2/2020,Northeast,New York,New York,Men's Athletic Footwear,50,"1,000",150000,In-store
 Foot Locker,1185732,1/3/2020,Northeast,New York,New York,Women's Street Footwear,40,"1,000",140000,In-store
